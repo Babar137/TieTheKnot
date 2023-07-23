@@ -112,7 +112,7 @@ class MyApp extends StatelessWidget {
                     ), // yeh isi tarha google chal raha hay kia?..New device create kr lety hn
                   ),
                   const SizedBox(
-                    height: 20,
+                    height: 50,
                   ),
                   const Row(
                     mainAxisAlignment: MainAxisAlignment.center,
